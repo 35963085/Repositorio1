@@ -1,2 +1,5 @@
 # Repositorio1
-Primer repositorio github
+
+Mi Primer repositorio github
+
+Me gusta programar, tomar fotos y leer  
